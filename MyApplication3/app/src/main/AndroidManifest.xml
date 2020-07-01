@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".last4"></activity>
+        <activity android:name=".last3" />
+        <activity android:name=".last2" />
+        <activity android:name=".last1" />
+        <activity android:name=".lastactivity" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name="com.example.Main2Activity" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".newactivity" />
+        <activity android:name=".random" />
+        <activity android:name=".fifth" />
+        <activity android:name=".Fifthactivity" />
+        <activity android:name=".Fourthactivity" />
+        <activity android:name=".Thirdactivity" />
+        <activity android:name=".Secondactivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

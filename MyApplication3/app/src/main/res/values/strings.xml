@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="next">next</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="medical_store">Medical store</string>
+    <string name="fruit_store">Fruit store</string>
+    <string name="sweet_shop">Sweet Shop</string>
+    <string name="grocery_store">grocery store</string>
+    <string name="more">more</string>
+    <string name="search_your_location">Search your location</string>
+    <string name="search">search</string>
+    <string name="sweet_store">Sweet store</string>
+    <string name="todo">TODO</string>
+    <string name="_355_meters">355 meters</string>
+    <string name="_50_meters">50 meters</string>
+    <string name="mithai_wala">mithai wala</string>
+    <string name="_1_03km">1.03Km</string>
+    <string name="_1_5km">1.5km</string>
+    <string name="sort">sort</string>
+    <string name="jalebi">jalebi</string>
+    <string name="your_location">Your location</string>
+    <string name="barrackpore">barrackpore</string>
+    <string name="satyacharan_sweets">satyacharan sweets</string>
+    <string name="annapurna_sweets">annapurna sweets</string>
+    <string name="Sweet_stores_near_you">Sweet stores near you:</string>
+    <string name="Jalebi">Jalebi</string>
+    <string name="Annapurna_sweets">Annapurna_sweets</string>
+    <string name="Satyacharan_sweets">satyacharan_sweets</string>
+    <string name="Mithai_wala">mithai_wala</string>
+    <string name="Barrackpore">arrackpore</string>
+    <string name="sorted_list">Sorted list</string>
+    <string name="typehere">typehere</string>
+    <string name="satyacharansweets">Satyacharan sweets</string>
+    <string name="gulab_jamun">gulab jamun</string>
+    <string name="rasgulla">Rasgulla</string>
+    <string name="laddu">Laddu</string>
+    <string name="kalakand">kalakand</string>
+    <string name="a">TODO</string>
+    <string name="b">b</string>
+    <string name="c">c</string>
+    <string name="d">d</string>
+    <string name="Lddu">Laddu</string>
+    <string name="KalaKand">KalaKand</string>
+    <string name="l">l</string>
+    <string name="k">k</string>
+    <string name="load">more</string>
+    <string name="ll">ll</string>
+
+
+</resources>
