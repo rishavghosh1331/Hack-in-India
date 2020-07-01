@@ -1,0 +1,2 @@
+# Hack-in-India
+In this Covid-19 pandemic situation everyone is trying to make social distancing, but due to the crisis of essential needs they are gathering to the shops, roaming freely. We are coming with a idea of a app in which they can book their essential items from their local shops. Items will be updated by the shop keepers and people can book the items which they want. Everyone will get their certain time span and they have to collect the items within that time. By this process they can avoid gathering.
